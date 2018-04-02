@@ -14,7 +14,7 @@ This repository contains the schedule, presentations and readings for the TIMAN 
 | 3.8.17  | First meeting, organizing details. [Notes regarding structure](https://gist.github.com/Isminoula/91b4ff677822eb34945edf9a96dcc514)  | - | -  |
 | 3.12.17  | Text summarization <br> DL for financial data <br> (please insert slides here)  |  Multi-attention heads (please insert paper here) <br> [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144) | <br> [Gumber-Softmax on pytorch](https://github.com/pytorch/pytorch/pull/3341) |
 | 3.26.17  | Ismini Lourentzou: [User-generated text normalization](https://github.com/TIMAN-group/TIMAN-Deep-Learning-group/blob/master/Text_Normalization_presentation.pdf) <br> Poetry generation <br> (please insert slides here)  | - | -  |
-| 3.26.17  | Yiping Song: [Introduction to Cnversation Systems](https://github.com/TIMAN-group/TIMAN-Deep-Learning-group/blob/master/introduction-to-CS.pptx) | - | -  |
+| 3.26.17  | Yiping Song: [Introduction to Conversation Systems](https://github.com/TIMAN-group/TIMAN-Deep-Learning-group/blob/master/introduction-to-CS.pptx) | - | -  |
 
 
 
