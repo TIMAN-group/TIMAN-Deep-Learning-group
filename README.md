@@ -15,7 +15,7 @@ This repository contains the schedule, presentations and readings for the TIMAN 
 | 3.12.18  | Text summarization <br> DL for financial data <br> (please insert slides here)  |  Multi-attention heads (please insert paper here) <br> [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144) | <br> [Gumber-Softmax on pytorch](https://github.com/pytorch/pytorch/pull/3341) |
 | 3.26.18  | Ismini Lourentzou: [User-generated text normalization](https://github.com/TIMAN-group/TIMAN-Deep-Learning-group/blob/master/Text_Normalization_presentation.pdf) <br> Poetry generation <br> (please insert slides here)  | - | -  |
 | 4.2.18  | Yiping Song: [Introduction to Conversation Systems](https://github.com/TIMAN-group/TIMAN-Deep-Learning-group/blob/master/introduction-to-CS.pptx) | [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) <br> [Sentence Simplification with Deep Reinforcement Learning](https://arxiv.org/abs/1703.10931) | <br> [Sentence simplification code in torch](https://github.com/XingxingZhang/dress) |
-| 4.9.18  | Continue our discussion on DRL, (slides from Graham Neubig)[http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-16-rl.pdf] as a good introduction 
+| 4.9.18  | Continue our discussion on DRL, it is suggested to read the publications above as well as the [slides from Graham Neubig](http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-16-rl.pdf) as a brief introduction before our next meeting
 
 
 
