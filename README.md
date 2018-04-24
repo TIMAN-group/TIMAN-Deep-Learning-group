@@ -17,6 +17,7 @@ This repository contains the schedule, presentations and readings for the TIMAN 
 | 4.2.18  | Yiping Song: [Introduction to Conversation Systems](https://github.com/TIMAN-group/TIMAN-Deep-Learning-group/blob/master/introduction-to-CS.pdf) | [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) <br> [Sentence Simplification with Deep Reinforcement Learning](https://arxiv.org/abs/1703.10931) <br> [Structured Attention Networks](https://openreview.net/pdf?id=HkE0Nvqlg) | <br> [Sentence simplification code in torch](https://github.com/XingxingZhang/dress) |
 | 4.9.18  | [slides from Graham Neubig](http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-16-rl.pdf) | [Learning Structured Text Representations](https://arxiv.org/abs/1705.09207) <br> [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908) | - |
 | 4.16.18  |  | [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | [GANs in pytorch](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)|
+| 4.16.18  |  | [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530) | [Some sample code](https://github.com/pluskid/fitting-random-labels) and a [Blog post about this paper](https://danieltakeshi.github.io/2017/05/19/understanding-deep-learning-requires-rethinking-generalization-my-thoughts-and-notes)|
 
 
 ## Notes on suggesting papers
