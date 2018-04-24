@@ -18,7 +18,7 @@ This repository contains the schedule, presentations and readings for the TIMAN 
 | 4.9.18  | [slides from Graham Neubig](http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-16-rl.pdf) | [Learning Structured Text Representations](https://arxiv.org/abs/1705.09207) <br> [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908) | - |
 | 4.16.18  |  | [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | [GANs in pytorch](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)|
 | 4.23.18  |  | [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530) | [Some sample code](https://github.com/pluskid/fitting-random-labels) and a [Blog post about this paper](https://danieltakeshi.github.io/2017/05/19/understanding-deep-learning-requires-rethinking-generalization-my-thoughts-and-notes)|
-| 4.23.18  |  | Graph Neural Networks | |
+| 4.30.18  |  | Graph Neural Networks | |
 
 
 ## Notes on suggesting papers
